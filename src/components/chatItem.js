@@ -6,8 +6,6 @@ import React, { Component } from 'react'
     //const { id, avatar, comment, username, validParent } = chat;
     const { id, parent, username, full_name, avatar, dateenglish, datehumanform, comment, validParent } = chat;
   
-    //console.log("CHAT", chat)
-    //console.log("validParent", validParent)
     const cssHandle = validParent ? 'replies' : 'sent'
   
     return (
