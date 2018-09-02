@@ -3,6 +3,7 @@ import ChatItem from './chatItem'
 
 class ChatWindow extends Component {
   render() {
+    console.log(this.props)
     return (
         <React.Fragment>
             <div className="content">
@@ -17,7 +18,7 @@ class ChatWindow extends Component {
         </div>
         <div className="messages">
           <ul>
-            
+            {this.props.chats.map( item => <ChatItem chat={item} /> )}
             <li className="replies">
               <img src="http://emilcarlsson.se/assets/harveyspecter.png" alt="" />
               <p>When you're backed against the wall, break the god damn thing down.</p>
