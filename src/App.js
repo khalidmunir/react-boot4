@@ -21,7 +21,7 @@ class App extends Component {
 
   fetchUsers() {
     // Where are we fetching data from
-    fetch(`http://localhost:8000/api/chats`)
+    fetch(`data.json`)
       // We get the API response then receive data in JSON...
       .then(response => response.json())
       // Normally would use a store like redux

@@ -1,0 +1,902 @@
+[
+  {
+    "id": 4355201,
+    "parent": null,
+    "comment": "Trsting",
+    "username": "Melanie S (Zap-Map)",
+    "full_name": "Melanie Shufflebotham",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-306241794.jpg",
+    "date": "2018-07-27T11:19:51+01:00"
+  },
+  {
+    "id": 4342952,
+    "parent": null,
+    "comment": "help, why cant I see charger info , not even a postcode?.",
+    "username": "electricbear",
+    "full_name": "electricbear",
+    "avatar": "https://secure.gravatar.com/avatar/71eacd021ed768dc0e6d85c74cf94474?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-24T20:58:36+01:00"
+  },
+  {
+    "id": 4311257,
+    "parent": null,
+    "comment": "New charger now working at the Clachaig Inn Glencoe",
+    "username": "macleafy",
+    "full_name": "Kenneth Cameron",
+    "avatar": "https://secure.gravatar.com/avatar/60654a9c34abbfae7d0d7abd1ec42a8b?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-23T17:43:26+01:00"
+  },
+  {
+    "id": 4303960,
+    "parent": 4257662,
+    "comment": "Hi Adski, sounds like I do a similar trip, having the same issues. Wondering if it is a vehicle compatibility issue. I drive an i3, you?",
+    "username": "JimBob",
+    "full_name": "Chris Barnard",
+    "avatar": "https://secure.gravatar.com/avatar/b3fce5b83fd318bfdc17281b8ef2cd45?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-23T13:42:23+01:00"
+  },
+  {
+    "id": 4190303,
+    "parent": null,
+    "comment": "this might sound a bit basic, but, do I need a credit card specifically for charging ?",
+    "username": "C1JNA",
+    "full_name": "John Astill",
+    "avatar": "https://secure.gravatar.com/avatar/38a8c91a6073f0a0c6cedfbbf9bd0294?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-19T06:49:00+01:00"
+  },
+  {
+    "id": 4150886,
+    "parent": null,
+    "comment": "what RFID card sScotland",
+    "username": "corente",
+    "full_name": "Morando Bertoncini",
+    "avatar": "https://secure.gravatar.com/avatar/b3a79d86030097a9144a71a3818d8d91?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-17T15:24:39+01:00"
+  },
+  {
+    "id": 4143734,
+    "parent": null,
+    "comment": "Asda Dundee west myrekirk road",
+    "username": "dave51",
+    "full_name": "david hannan",
+    "avatar": "https://secure.gravatar.com/avatar/79f1654e6b7d7d150551cd6f18a5cb43?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-17T11:39:00+01:00"
+  },
+  {
+    "id": 4118085,
+    "parent": null,
+    "comment": "There are 2 new fast chargers at Ely Leisure park....weren't working yesterday but think they should be up and running",
+    "username": "JaneB",
+    "full_name": "JaneB",
+    "avatar": "https://secure.gravatar.com/avatar/f787680589cc329a645fcdc03f3aa6f3?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-16T11:59:15+01:00"
+  },
+  {
+    "id": 3971009,
+    "parent": 3970409,
+    "comment": "Sorry about the repost - newbie error!",
+    "username": "Manny",
+    "full_name": "Peter Mansfield",
+    "avatar": "https://secure.gravatar.com/avatar/9210df2ac736fd16797d1ed7194e712c?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-10T15:31:40+01:00"
+  },
+  {
+    "id": 3970409,
+    "parent": null,
+    "comment": "Looking to charge my Leaf at Ebbsfleet International Station - are there any charge points there?",
+    "username": "Manny",
+    "full_name": "Peter Mansfield",
+    "avatar": "https://secure.gravatar.com/avatar/9210df2ac736fd16797d1ed7194e712c?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-10T15:11:20+01:00"
+  },
+  {
+    "id": 3970225,
+    "parent": null,
+    "comment": "Looking for a charger at Ebbsfleet International Station - are there none there?",
+    "username": "Manny",
+    "full_name": "Peter Mansfield",
+    "avatar": "https://secure.gravatar.com/avatar/9210df2ac736fd16797d1ed7194e712c?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-10T15:08:41+01:00"
+  },
+  {
+    "id": 3944105,
+    "parent": 3922823,
+    "comment": "Hi Chris - CYC live status are back up and running now. ZM?",
+    "username": "Melanie S (Zap-Map)",
+    "full_name": "Melanie Shufflebotham",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-306241794.jpg",
+    "date": "2018-07-09T15:26:34+01:00"
+  },
+  {
+    "id": 3938150,
+    "parent": 3926579,
+    "comment": "Thanks for this information, the charge point has been updated to out of service.",
+    "username": "Admin (Zap-Map)",
+    "full_name": "Admin (Zap-Map)",
+    "avatar": "https://www.zap-map.com/uploads/201704/img-541850972.jpg",
+    "date": "2018-07-09T12:12:41+01:00"
+  },
+  {
+    "id": 3922823,
+    "parent": null,
+    "comment": "Any update on when CYC network live updates will come back online? It's the main feature of zap map so pretty pointless if you can't see if charging points are free or not. looks like it's been offline a week now",
+    "username": "Chrisq1010",
+    "full_name": "Chris Norcup-Stone",
+    "avatar": "https://secure.gravatar.com/avatar/a7eea8904408dfb6f49b7c1be3cf97e4?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-08T18:13:27+01:00"
+  },
+  {
+    "id": 3904646,
+    "parent": 3899432,
+    "comment": "that explains things... ??",
+    "username": "Chrisq1010",
+    "full_name": "Chris Norcup-Stone",
+    "avatar": "https://secure.gravatar.com/avatar/a7eea8904408dfb6f49b7c1be3cf97e4?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-07T18:04:34+01:00"
+  },
+  {
+    "id": 3902357,
+    "parent": 3899432,
+    "comment": "Currently live status is not coming through from CYC network (which includes GMEV in Manchester) we are working to get this back online asap.",
+    "username": "connietest",
+    "full_name": "connie test",
+    "avatar": "https://secure.gravatar.com/avatar/875cad1a056161820666a4b4a4062bab?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-07T16:04:53+01:00"
+  },
+  {
+    "id": 3899432,
+    "parent": null,
+    "comment": "has zapmap gone wrong? all points are showing free and last finished charging 5-6 days ago? clearly cars are plugged in right now, Manchester",
+    "username": "Chrisq1010",
+    "full_name": "Chris Norcup-Stone",
+    "avatar": "https://secure.gravatar.com/avatar/a7eea8904408dfb6f49b7c1be3cf97e4?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-07T13:57:56+01:00"
+  },
+  {
+    "id": 3864914,
+    "parent": 3813734,
+    "comment": "Looks nice in grey!",
+    "username": "landraikman",
+    "full_name": "Rich & Lucy Aikman",
+    "avatar": "https://secure.gravatar.com/avatar/4b7ccc5eb31e7e248cc13466747cb6c4?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-05T20:49:19+01:00"
+  },
+  {
+    "id": 3856857,
+    "parent": null,
+    "comment": "Software update now complete and charger fully operational.",
+    "username": "Ramjam",
+    "full_name": "William Silverstone",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-960772989.jpg",
+    "date": "2018-07-05T15:03:30+01:00"
+  },
+  {
+    "id": 3841886,
+    "parent": null,
+    "comment": "If you have a home charger that you add for others to use and you\u2019re out, how does person using it pay you?",
+    "username": "Sutherland_R",
+    "full_name": "Robert Sutherland",
+    "avatar": "https://www.zap-map.com/uploads/201807/img-859490925.jpg",
+    "date": "2018-07-04T19:17:15+01:00"
+  },
+  {
+    "id": 3813734,
+    "parent": null,
+    "comment": "Successful rapid charge w Chademo. Still free until they sort out contactless..... \nit\u2019s at the park&ride. No loos, no coffee. Just sit & wait!!",
+    "username": "Yerfdog",
+    "full_name": "Alan Godfrey",
+    "avatar": "https://www.zap-map.com/uploads/201804/img-182536603.jpg",
+    "date": "2018-07-03T14:28:40+01:00"
+  },
+  {
+    "id": 3807845,
+    "parent": null,
+    "comment": "Gloucester services north. charged CCS successfully 2nd July.",
+    "username": "Claymillman",
+    "full_name": "Claymillman",
+    "avatar": "https://secure.gravatar.com/avatar/db38b5f4d9029ea88f16bb181b7be9e9?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-07-03T10:25:00+01:00"
+  },
+  {
+    "id": 3722570,
+    "parent": null,
+    "comment": "Hello can I use charging points if I haven\u2019t received my thob but I have registered today?",
+    "username": "naxstar",
+    "full_name": "Naqeeb khan",
+    "avatar": "https://www.zap-map.com/uploads/201806/img-1917917206.jpg",
+    "date": "2018-06-29T17:38:30+01:00"
+  },
+  {
+    "id": 3701984,
+    "parent": null,
+    "comment": "First 'long drive' in an EV. Arrived at this charging station - no 'card' yet so called the company charging something who tried to help especially as I am registered on the Polar App - there is no machine number on this post - that's where the confusion began! The company assumed it was at 'the council office' at Wokingham and switched that charger on remotely - eventually we realised that is a different location completely, which I drove to. If you don't have a 'card' don't go to this post - the company has no 'recird' of it - it is situated in a desolate carpark and is covered in cobwebs!!",
+    "username": "glennleeev",
+    "full_name": "Glenn Lee",
+    "avatar": "https://secure.gravatar.com/avatar/04e03f287315cbafeae975601c2fea1d?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-28T23:39:50+01:00"
+  },
+  {
+    "id": 3688129,
+    "parent": 3687446,
+    "comment": "Last time, this worked with a CYC card, but failed to charge using a POLAR PLUS card",
+    "username": "Women'srighttocharge",
+    "full_name": "Altan Akbiyik",
+    "avatar": "https://www.zap-map.com/uploads/201802/img-29642508.jpg",
+    "date": "2018-06-28T13:37:14+01:00"
+  },
+  {
+    "id": 3646733,
+    "parent": null,
+    "comment": "Hi I am about to get from Preston to Portmeirion\nPenrhyndeudraeth\nWales\nI have been try my Nissan route planner but doesn\u2019t look right any better way to plan with a Nissan Leaf 24kw",
+    "username": "lex",
+    "full_name": "lex",
+    "avatar": "https://secure.gravatar.com/avatar/75c411beff1ba4fdd2d517b218f16538?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-26T21:39:51+01:00"
+  },
+  {
+    "id": 3628431,
+    "parent": 3627792,
+    "comment": "Must be 2 devices!",
+    "username": "Women'srighttocharge",
+    "full_name": "Altan Akbiyik",
+    "avatar": "https://www.zap-map.com/uploads/201802/img-29642508.jpg",
+    "date": "2018-06-26T10:24:40+01:00"
+  },
+  {
+    "id": 3592423,
+    "parent": null,
+    "comment": "Tried to use Geniepoint at Jet Apollo Leeds LS10 1PF.\nNo joy with the Chademo, Helpline very helpful, ended up using Type, (very slow) to get me out of a fix. Agreed to way the \u00a310 per hour over stay fee.\n\nThis charger must be new, can't find it on ZapMap?",
+    "username": "HumberThumper",
+    "full_name": "HumberThumper",
+    "avatar": "https://secure.gravatar.com/avatar/2cbb5197f76f8c7b22756c2dd6f55a05?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-24T18:43:56+01:00"
+  },
+  {
+    "id": 3553778,
+    "parent": null,
+    "comment": "there are two pins at Exchange Quay, Manchester one of which has nothing attached, needs deleting",
+    "username": "Chrisq1010",
+    "full_name": "Chris Norcup-Stone",
+    "avatar": "https://secure.gravatar.com/avatar/a7eea8904408dfb6f49b7c1be3cf97e4?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-23T07:56:53+01:00"
+  },
+  {
+    "id": 3551576,
+    "parent": null,
+    "comment": "gatwick",
+    "username": "soulman",
+    "full_name": "Saghir Ahmed",
+    "avatar": "https://secure.gravatar.com/avatar/bdee9e93ba5d40fc4068bd0a62c1f2f0?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-22T23:27:48+01:00"
+  },
+  {
+    "id": 3549998,
+    "parent": null,
+    "comment": "Traveling to North Shields next weekend. Is the charger active in Norfolk Street, North Shields, Tyne and Wear.?\nMany thanks",
+    "username": "Zap-Map User",
+    "full_name": "Zap-Map User",
+    "avatar": "https://secure.gravatar.com/avatar/09b4535484a025f1fbfd2412b4992dbf?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-22T21:19:02+01:00"
+  },
+  {
+    "id": 3530652,
+    "parent": null,
+    "comment": "Route planner prediction spot on. En route Bristol to Cardiff with one charge stop. Estimated charge left 68%. Actual charge left 68%.",
+    "username": "Ben Lane (Zap-Map)",
+    "full_name": "Ben Lane (Zap-Map)",
+    "avatar": "https://www.zap-map.com/uploads/201704/img-1447858130.jpg",
+    "date": "2018-06-22T09:45:57+01:00"
+  },
+  {
+    "id": 3471625,
+    "parent": null,
+    "comment": "Goig to boness on windermere help to charge nissan leaf 2018 G,G",
+    "username": "Stephen65",
+    "full_name": "Stephen Gilluley",
+    "avatar": "https://www.zap-map.com/uploads/201802/img-1944127467.jpg",
+    "date": "2018-06-20T02:06:31+01:00"
+  },
+  {
+    "id": 3471622,
+    "parent": null,
+    "comment": "Going to boness on windermere help to charge nissan leaf 2018.G.G",
+    "username": "Stephen65",
+    "full_name": "Stephen Gilluley",
+    "avatar": "https://www.zap-map.com/uploads/201802/img-1944127467.jpg",
+    "date": "2018-06-20T02:02:49+01:00"
+  },
+  {
+    "id": 3471619,
+    "parent": null,
+    "comment": "going to boness on windermere help to where best charger for my nissan leaf2018 thanks GING GANG",
+    "username": "Stephen65",
+    "full_name": "Stephen Gilluley",
+    "avatar": "https://www.zap-map.com/uploads/201802/img-1944127467.jpg",
+    "date": "2018-06-20T02:01:08+01:00"
+  },
+  {
+    "id": 3409337,
+    "parent": 3409181,
+    "comment": "Hi Adam - could you let us know what charge point this was? Status is updated every 5 mins and shows current status available from network. if one is not right we can check out from our end. thanks Melanie",
+    "username": "Melanie S (Zap-Map)",
+    "full_name": "Melanie Shufflebotham",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-306241794.jpg",
+    "date": "2018-06-17T12:10:04+01:00"
+  },
+  {
+    "id": 3409181,
+    "parent": null,
+    "comment": "The status outline seems to be pretty inaccurate. Annoying to rock up some where that's 'available' only to find some else already plugged in.",
+    "username": "AdamP",
+    "full_name": "AdamP",
+    "avatar": "https://secure.gravatar.com/avatar/36c1013f01e8b591c70465158fd2797d?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-17T12:04:37+01:00"
+  },
+  {
+    "id": 3408017,
+    "parent": 3405829,
+    "comment": "Glad you like Route Planner. Good feedback - we will add to list for V2.",
+    "username": "Melanie S (Zap-Map)",
+    "full_name": "Melanie Shufflebotham",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-306241794.jpg",
+    "date": "2018-06-17T11:19:41+01:00"
+  },
+  {
+    "id": 3405829,
+    "parent": null,
+    "comment": "Feedback on Route finder - very well designed feature, only improvement would be to allow to save a route without having to preselect a charger",
+    "username": "Women'srighttocharge",
+    "full_name": "Altan Akbiyik",
+    "avatar": "https://www.zap-map.com/uploads/201802/img-29642508.jpg",
+    "date": "2018-06-17T09:18:03+01:00"
+  },
+  {
+    "id": 3393566,
+    "parent": 3379544,
+    "comment": "Hi Helen - have you downloaded latest version (4.0)? Then on list or map click on orange circle and select RP option.",
+    "username": "Melanie S (Zap-Map)",
+    "full_name": "Melanie Shufflebotham",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-306241794.jpg",
+    "date": "2018-06-16T15:27:22+01:00"
+  },
+  {
+    "id": 3389012,
+    "parent": 3379544,
+    "comment": "where is it??? looking all over but can't seem to find the functionality",
+    "username": "helen",
+    "full_name": "helen",
+    "avatar": "https://secure.gravatar.com/avatar/a1f72cc7169f42d09caeabac77aad38f?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-16T13:00:39+01:00"
+  },
+  {
+    "id": 3379544,
+    "parent": null,
+    "comment": "Route planner v1 now available on Android. Let us know any feedback!",
+    "username": "Melanie S (Zap-Map)",
+    "full_name": "Melanie Shufflebotham",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-306241794.jpg",
+    "date": "2018-06-16T00:10:11+01:00"
+  },
+  {
+    "id": 3375057,
+    "parent": null,
+    "comment": "Hi any one near cockermouth, I am going there soon for a few days any charging in the Town?",
+    "username": "harry05",
+    "full_name": "harry05",
+    "avatar": "https://secure.gravatar.com/avatar/7f763dbf9d3e3e9aca49eb8d8d6a9c55?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-15T18:45:13+01:00"
+  },
+  {
+    "id": 3348942,
+    "parent": 3348809,
+    "comment": "Great, and I wrote about 3 years ago asking why mine was the only readily available one in his constituency.",
+    "username": "E Bolton",
+    "full_name": "E Bolton",
+    "avatar": "https://secure.gravatar.com/avatar/889fa47b04d329852df30ec32addcb76?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-14T19:26:42+01:00"
+  },
+  {
+    "id": 3300959,
+    "parent": 3250038,
+    "comment": "Hi Daniel -good thought thanks!",
+    "username": "Melanie S (Zap-Map)",
+    "full_name": "Melanie Shufflebotham",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-306241794.jpg",
+    "date": "2018-06-12T23:07:06+01:00"
+  },
+  {
+    "id": 3265599,
+    "parent": null,
+    "comment": "Beverley, Flemingate. All chargers inoperable. Most unusual.",
+    "username": "gentleone",
+    "full_name": "John Nanson",
+    "avatar": "https://secure.gravatar.com/avatar/8b388eaa16447e41859d810ec6b1ecb2?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-11T14:13:17+01:00"
+  },
+  {
+    "id": 3259332,
+    "parent": 3250038,
+    "comment": "Hey Melanie. It was great to see everyone there! I forgot to mention to the ZapMap team that I think you should add your news section to the app. I don\u2019t own an EV but I have an interest and this would draw me to open the app continually. Then more people see the map itself more regularly too!",
+    "username": "danielnr87",
+    "full_name": "Dan Williams",
+    "avatar": "https://www.zap-map.com/uploads/201806/img-643979540.jpg",
+    "date": "2018-06-11T10:12:45+01:00"
+  },
+  {
+    "id": 3250038,
+    "parent": null,
+    "comment": "Good turn out and electric buzz at Fully Charged Event! Great to meet so many Zap Map users!",
+    "username": "Melanie S (Zap-Map)",
+    "full_name": "Melanie Shufflebotham",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-306241794.jpg",
+    "date": "2018-06-10T18:55:18+01:00"
+  },
+  {
+    "id": 3243786,
+    "parent": null,
+    "comment": "Wicked. Very very fast. But i think i might get a ticket. It says on the wall Hotel Guest only anyone else will get clamped. Im not a guest lol however it did come on my dashboard mid way through,Battery charging impossible but it went away and continued to charge.",
+    "username": "chow1",
+    "full_name": "hamza chow",
+    "avatar": "https://secure.gravatar.com/avatar/87c13f3e5f02532e26b7d1dea159946b?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-10T14:38:40+01:00"
+  },
+  {
+    "id": 3230127,
+    "parent": null,
+    "comment": "Good",
+    "username": "iKristof",
+    "full_name": "Krzysztof Dabrowski",
+    "avatar": "https://secure.gravatar.com/avatar/d8a8e47b3b8726e282f25c171dfbb2c2?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-09T20:08:32+01:00"
+  },
+  {
+    "id": 3219657,
+    "parent": null,
+    "comment": "Sainsburys Halifax car parked in two spaces one EV one normal space. Reported to customer service but no interest",
+    "username": "francescat57",
+    "full_name": "francesca towers",
+    "avatar": "https://secure.gravatar.com/avatar/965e70155e817baeb1214e4bdb28f225?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-09T13:53:57+01:00"
+  },
+  {
+    "id": 3207543,
+    "parent": null,
+    "comment": "yo",
+    "username": "sdf dsf",
+    "full_name": "sdf dsf",
+    "avatar": "https://secure.gravatar.com/avatar/b5757ca6c00ffce29b655a070fa89e7d?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-09T00:14:25+01:00"
+  },
+  {
+    "id": 3205449,
+    "parent": 3204324,
+    "comment": "Hi Les different colours represent different charger speeds. Take a look at the connector filters and you will see a key. Pink - rapid (+50kw), blue - fast (7-23kw) and yellow - slow (3kw). Cheers Melanie",
+    "username": "Melanie S (Zap-Map)",
+    "full_name": "Melanie Shufflebotham",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-306241794.jpg",
+    "date": "2018-06-08T21:10:36+01:00"
+  },
+  {
+    "id": 3204327,
+    "parent": null,
+    "comment": "What do the different colour symbols mean on the map. Just downloaded the app.",
+    "username": "les21",
+    "full_name": "Les Philpot",
+    "avatar": "https://www.zap-map.com/uploads/201806/img-1859555779.jpg",
+    "date": "2018-06-08T20:17:44+01:00"
+  },
+  {
+    "id": 3204324,
+    "parent": null,
+    "comment": "Just downloaded Zap Map. What is the significance of the different colour codings on the map symbols.",
+    "username": "les21",
+    "full_name": "Les Philpot",
+    "avatar": "https://www.zap-map.com/uploads/201806/img-1859555779.jpg",
+    "date": "2018-06-08T20:16:25+01:00"
+  },
+  {
+    "id": 3195578,
+    "parent": null,
+    "comment": "TN17 4AX",
+    "username": "NickW57",
+    "full_name": "Nick Wallbridge",
+    "avatar": "https://www.zap-map.com/uploads/201803/img-1409100134.jpg",
+    "date": "2018-06-08T15:05:09+01:00"
+  },
+  {
+    "id": 3169408,
+    "parent": null,
+    "comment": "Hi, did you have any luck appealing the fine from Holiday in MK East? I have just received a similar fine myself whilst using the rapid charger. Thanks",
+    "username": "FlyA",
+    "full_name": "FlyA",
+    "avatar": "https://secure.gravatar.com/avatar/71d722d93c0ece01b06eed70f4bd8784?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-07T15:37:13+01:00"
+  },
+  {
+    "id": 3169403,
+    "parent": null,
+    "comment": "Hi, have you had any luck appealing the fine from Holiday Inn Milton Keynes East? I have just received a similar fine myself when using the charger and do not recall seeing any signage at all? Thanks",
+    "username": "FlyA",
+    "full_name": "FlyA",
+    "avatar": "https://secure.gravatar.com/avatar/71d722d93c0ece01b06eed70f4bd8784?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-07T15:35:22+01:00"
+  },
+  {
+    "id": 3131441,
+    "parent": null,
+    "comment": "Nipped in here at 5:30 am after cathedral place let me down . Successful charge on chademo",
+    "username": "DrP",
+    "full_name": "DrP",
+    "avatar": "https://secure.gravatar.com/avatar/cac8cd48c222e8398c5c020e843a11f5?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-06T00:47:24+01:00"
+  },
+  {
+    "id": 3058877,
+    "parent": null,
+    "comment": "Parking info + details for security",
+    "username": "MB-ED",
+    "full_name": "Marco Hahn",
+    "avatar": "https://www.zap-map.com/uploads/201806/img-991267126.jpg",
+    "date": "2018-06-02T19:59:41+01:00"
+  },
+  {
+    "id": 3052640,
+    "parent": null,
+    "comment": "As usual, the Asda Shirley posts are all blocked by conventional vehicles. ?",
+    "username": "Dalio",
+    "full_name": "Dale Bradbury",
+    "avatar": "https://www.zap-map.com/uploads/201806/img-1490097430.jpg",
+    "date": "2018-06-02T15:42:14+01:00"
+  },
+  {
+    "id": 3044993,
+    "parent": null,
+    "comment": "I have spotted that POLAR have introduced a \u00a310/hour usage fee on Ultracharger units after 90 minutes on the POLAR PLUS tariff. Welcome news!",
+    "username": "wyaak2",
+    "full_name": "wyaak2 Akbiyik",
+    "avatar": "https://www.zap-map.com/uploads/201712/img-1791914345.jpg",
+    "date": "2018-06-02T11:42:29+01:00"
+  },
+  {
+    "id": 3028100,
+    "parent": 2857784,
+    "comment": "Thanks for letting us know. The location has been updated.",
+    "username": "Caragh (Zap-Map)",
+    "full_name": "Caragh (Zap-Map)",
+    "avatar": "https://www.zap-map.com/uploads/201806/img-669794591.jpg",
+    "date": "2018-06-01T15:57:11+01:00"
+  },
+  {
+    "id": 3016640,
+    "parent": null,
+    "comment": "Freshney Place, Grimsby Car Park Pod Points are in the West Car Park Level 3. \nNothing in the East Car Park. \nLived here for years, never used West Car Park just made an Ass of U and Me, assuming they were in the car park I always used when I lived here, Doh!",
+    "username": "HumberThumper",
+    "full_name": "HumberThumper",
+    "avatar": "https://secure.gravatar.com/avatar/2cbb5197f76f8c7b22756c2dd6f55a05?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-06-01T10:27:10+01:00"
+  },
+  {
+    "id": 2861606,
+    "parent": 2677513,
+    "comment": "Hi Redder - you can use the filter the chargers by network. Charger cost is shown on the i tab for each charge location. thanks ZM",
+    "username": "Melanie S (Zap-Map)",
+    "full_name": "Melanie Shufflebotham",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-306241794.jpg",
+    "date": "2018-05-31T14:01:53+01:00"
+  },
+  {
+    "id": 2861579,
+    "parent": 2690867,
+    "comment": "Hi Nicky you can create a Zap-Map account by clicking on the account icon top right and clicking register. You can see how to pay for each charge point by looking at the i tab - it will tell you what app / card you need. thanks ZM",
+    "username": "Melanie S (Zap-Map)",
+    "full_name": "Melanie Shufflebotham",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-306241794.jpg",
+    "date": "2018-05-31T14:00:15+01:00"
+  },
+  {
+    "id": 2857784,
+    "parent": null,
+    "comment": "Hi ZapMap, please amend your map, the charge point in Kendal is as marked on the attached, not where you have it.\n\nBest wishes\nSimon",
+    "username": "simoninthelakes",
+    "full_name": "Simon White",
+    "avatar": "https://secure.gravatar.com/avatar/b863e9d9705c862b1e63232d3fb2c8ee?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-31T10:39:12+01:00"
+  },
+  {
+    "id": 2841656,
+    "parent": null,
+    "comment": "CCS on free vend this morning",
+    "username": "Rob",
+    "full_name": "Rob",
+    "avatar": "https://www.zap-map.com/uploads/201805/img-1678694433.jpg",
+    "date": "2018-05-30T11:41:34+01:00"
+  },
+  {
+    "id": 2815376,
+    "parent": null,
+    "comment": "Chademo working on both chargers.",
+    "username": "2twodogsdave",
+    "full_name": "David Poole",
+    "avatar": "https://www.zap-map.com/uploads/201804/img-1261061924.jpg",
+    "date": "2018-05-28T16:38:44+01:00"
+  },
+  {
+    "id": 2795222,
+    "parent": null,
+    "comment": "Started but cut off x3 but customer service save the day. Thank you very much indeed!!! It\u2019s much appreciated ??",
+    "username": "dazzleh",
+    "full_name": "dazzleh",
+    "avatar": "https://secure.gravatar.com/avatar/023db507067f01baf2416af3cfe0756a?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-27T11:42:01+01:00"
+  },
+  {
+    "id": 2763497,
+    "parent": null,
+    "comment": "Said free vend, I used it every other day when I was at the gym. Just found out been charged 4 times last couple of weeks of using it.",
+    "username": "ariesxl",
+    "full_name": "ariesxl",
+    "avatar": "https://secure.gravatar.com/avatar/cda592104014b9ebd2990ff2483fde08?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-25T12:26:46+01:00"
+  },
+  {
+    "id": 2747518,
+    "parent": 2747336,
+    "comment": "Parking charges were only introduced last year - so parking info will need to be changed in 11 locations: https://www.herefordshire.gov.uk/info/200168/parking/145/electric_car_charging/1",
+    "username": "Women'srighttocharge",
+    "full_name": "Altan Akbiyik",
+    "avatar": "https://www.zap-map.com/uploads/201802/img-29642508.jpg",
+    "date": "2018-05-24T13:44:00+01:00"
+  },
+  {
+    "id": 2747083,
+    "parent": 2746805,
+    "comment": "Access to charger blocked by an internal combustion engine vehicle",
+    "username": "Women'srighttocharge",
+    "full_name": "Altan Akbiyik",
+    "avatar": "https://www.zap-map.com/uploads/201802/img-29642508.jpg",
+    "date": "2018-05-24T13:20:12+01:00"
+  },
+  {
+    "id": 2746805,
+    "parent": null,
+    "comment": "what does iced mean? I am new and do not understand",
+    "username": "ken.nicholls",
+    "full_name": "ken nicholls",
+    "avatar": "https://secure.gravatar.com/avatar/fa04e90f5a0725de14e3bf46c888e287?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-24T13:10:12+01:00"
+  },
+  {
+    "id": 2734636,
+    "parent": null,
+    "comment": "Harrow Civic Centre POLAR point is back online..bring it back to ZM!",
+    "username": "Women'srighttocharge",
+    "full_name": "Altan Akbiyik",
+    "avatar": "https://www.zap-map.com/uploads/201802/img-29642508.jpg",
+    "date": "2018-05-23T17:34:09+01:00"
+  },
+  {
+    "id": 2725940,
+    "parent": null,
+    "comment": "Stopped 10AM on 23/05 and some engineers/technicians in a French van were carrying out maintenance.",
+    "username": "Bristolboy",
+    "full_name": "Matthew Green",
+    "avatar": "https://secure.gravatar.com/avatar/f0fdf053499d1422cb6dfe44e64607e1?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-23T10:02:33+01:00"
+  },
+  {
+    "id": 2724227,
+    "parent": null,
+    "comment": "All chargers not working here today :(hotel will make a call to try to sort it asap)",
+    "username": "nohairdave",
+    "full_name": "dave thirntob",
+    "avatar": "https://secure.gravatar.com/avatar/2fa199da7b27711d5ad08e6e193ecb17?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-23T08:31:13+01:00"
+  },
+  {
+    "id": 2722886,
+    "parent": null,
+    "comment": "Expensive",
+    "username": "leafperson",
+    "full_name": "David atkins",
+    "avatar": "https://secure.gravatar.com/avatar/eb554b4a71401583ce2666968067b1c2?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-23T06:54:56+01:00"
+  },
+  {
+    "id": 2698776,
+    "parent": null,
+    "comment": "When is the charger at SE18 4AS going to be repaired? It is not working since 2017",
+    "username": "theninjas26",
+    "full_name": "theninjas26",
+    "avatar": "https://secure.gravatar.com/avatar/6151d041a8c5087bef917134845aef7f?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-21T15:27:08+01:00"
+  },
+  {
+    "id": 2698771,
+    "parent": null,
+    "comment": "When is the charger at SE18 4AS going to be repaired?",
+    "username": "theninjas26",
+    "full_name": "theninjas26",
+    "avatar": "https://secure.gravatar.com/avatar/6151d041a8c5087bef917134845aef7f?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-21T15:26:37+01:00"
+  },
+  {
+    "id": 2690870,
+    "parent": null,
+    "comment": "how do i pay for charging my car",
+    "username": "nicky",
+    "full_name": "nicky",
+    "avatar": "https://secure.gravatar.com/avatar/c6994afe22c48d1966ea622303bab680?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-21T07:49:27+01:00"
+  },
+  {
+    "id": 2690867,
+    "parent": null,
+    "comment": "hello how do i make a account please",
+    "username": "nicky",
+    "full_name": "nicky",
+    "avatar": "https://secure.gravatar.com/avatar/c6994afe22c48d1966ea622303bab680?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-21T07:48:53+01:00"
+  },
+  {
+    "id": 2677515,
+    "parent": null,
+    "comment": "Large recharging post at Priory View for e-car vehicles synchronization error. Smaller black charging post OK.",
+    "username": "Redrider",
+    "full_name": "Redrider",
+    "avatar": "https://secure.gravatar.com/avatar/33808f711ab275b1cbaf741347e9ef8f?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-20T09:09:37+01:00"
+  },
+  {
+    "id": 2677513,
+    "parent": null,
+    "comment": "I have joined e-car car club. Using your map how do I know what the cost of charging is and do these charge points all belong to you or different networks.",
+    "username": "Redrider",
+    "full_name": "Redrider",
+    "avatar": "https://secure.gravatar.com/avatar/33808f711ab275b1cbaf741347e9ef8f?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-20T09:06:55+01:00"
+  },
+  {
+    "id": 2659433,
+    "parent": 2409617,
+    "comment": "This is the Huawei issue... hope you saw earlier post about how to fix. or try Googling for solution... there are some useful YouTube out there.",
+    "username": "Ben Lane (Zap-Map)",
+    "full_name": "Ben Lane (Zap-Map)",
+    "avatar": "https://www.zap-map.com/uploads/201704/img-1447858130.jpg",
+    "date": "2018-05-18T20:27:29+01:00"
+  },
+  {
+    "id": 2468273,
+    "parent": null,
+    "comment": "Minsmere RSPB\nSuccessful charge for Zoe, no problems.",
+    "username": "mo",
+    "full_name": "mo",
+    "avatar": "https://secure.gravatar.com/avatar/cc34fcaf2aedaf3c6bdf236a23d534ad?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-15T14:50:00+01:00"
+  },
+  {
+    "id": 2466722,
+    "parent": null,
+    "comment": "New charging point on the Isle of Man. 22kw on the Mountain Road a18 at the Bungalow",
+    "username": "JCB",
+    "full_name": "JCB",
+    "avatar": "https://secure.gravatar.com/avatar/21577d242376ffd81b22eb25ccbb1a39?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-15T13:26:07+01:00"
+  },
+  {
+    "id": 2440973,
+    "parent": null,
+    "comment": "My Txe will run approximately 65 miles on a full charge at \u00a30.35 a Kwh it costs me \u00a310.80.\nI can spend \u00a39.75 in petrol and get the same mileage. \nI'm struggling to see the point of charging.",
+    "username": "teenytinytone",
+    "full_name": "teenytinytone",
+    "avatar": "https://www.zap-map.com/uploads/201804/img-1634298541.jpg",
+    "date": "2018-05-13T20:33:09+01:00"
+  },
+  {
+    "id": 2435420,
+    "parent": 1878628,
+    "comment": "This is a rapid charger, designed to give you 80% charge in 20-30 mins, and then move on. Mr Zoe didn't strand himself without any means of power. He expected to use a public charger, which you appear to have been hogging.",
+    "username": "durhamleafer",
+    "full_name": "durhamleafer",
+    "avatar": "https://secure.gravatar.com/avatar/1116ea5d6b62ace7c08bfec78704ca7b?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-13T14:33:11+01:00"
+  },
+  {
+    "id": 2435418,
+    "parent": null,
+    "comment": "It's a rapid charger, designed to get you 80% charge in 20-30 mins and then move on. Mr Zoe didn't strand himself, you hogged the charger.",
+    "username": "durhamleafer",
+    "full_name": "durhamleafer",
+    "avatar": "https://secure.gravatar.com/avatar/1116ea5d6b62ace7c08bfec78704ca7b?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-13T14:31:10+01:00"
+  },
+  {
+    "id": 2422996,
+    "parent": null,
+    "comment": "A car key for a Nissan Leaf was left on a post box in Sandy Lane, Barham near Ipswich. Please email eldoug1@gmail.com for details.",
+    "username": "LeafyBinder",
+    "full_name": "Lawrence Douglas",
+    "avatar": "https://secure.gravatar.com/avatar/7ae56eb359888f14928b402b3fc4c4c1?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-12T16:11:34+01:00"
+  },
+  {
+    "id": 2410982,
+    "parent": null,
+    "comment": "Three of the chargers in Stirling NOT WORKING!",
+    "username": "MJC51",
+    "full_name": "Martin Constable",
+    "avatar": "https://secure.gravatar.com/avatar/badfb525928fdd1e041c4083c317d7e2?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-11T20:15:28+01:00"
+  },
+  {
+    "id": 2409617,
+    "parent": null,
+    "comment": "Zap map app stopped working on road trip! Permanently says Updating Goolgle Play Sevices and does nothing. Help!",
+    "username": "Kev",
+    "full_name": "Kev",
+    "avatar": "https://secure.gravatar.com/avatar/c66b7e692bb2668d1c5824b1a87d08a4?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-11T18:53:48+01:00"
+  },
+  {
+    "id": 2408624,
+    "parent": null,
+    "comment": "Card reader isn\u2019t working, but charger is fine.",
+    "username": "Saulenc",
+    "full_name": "Saulius Novikovas",
+    "avatar": "https://www.zap-map.com/uploads/201801/img-151163852.jpg",
+    "date": "2018-05-11T17:56:47+01:00"
+  },
+  {
+    "id": 2401017,
+    "parent": 2384975,
+    "comment": "Really? I was told it was going to fixed May 18th. Is it 100% working? Did you charge on it?",
+    "username": "cowlinn",
+    "full_name": "cowlinn",
+    "avatar": "https://secure.gravatar.com/avatar/302f7a5a940a0d6cb782c1cc1301f2ba?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-11T11:40:54+01:00"
+  },
+  {
+    "id": 2400443,
+    "parent": null,
+    "comment": "sandbach services southbound both charges have covers over them. out of order",
+    "username": "Tonynw",
+    "full_name": "Tony Danton",
+    "avatar": "https://secure.gravatar.com/avatar/b841658278154a261211e4f6106e8347?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-11T11:09:19+01:00"
+  },
+  {
+    "id": 2400077,
+    "parent": null,
+    "comment": "Leicester south App said out of order but friendly fellow Leaf driver showed us how to get free vend",
+    "username": "DC",
+    "full_name": "DC",
+    "avatar": "https://secure.gravatar.com/avatar/ae99886e5eefe1650d0b713df166cab6?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-11T10:48:46+01:00"
+  },
+  {
+    "id": 2395244,
+    "parent": null,
+    "comment": "Anyone know what the prices are ? Do they vary from company too company is it more to use a rapid charger ? Thanks",
+    "username": "1knightalone",
+    "full_name": "Chris Knight",
+    "avatar": "https://www.zap-map.com/uploads/201805/img-1410988202.jpg",
+    "date": "2018-05-10T22:25:35+01:00"
+  },
+  {
+    "id": 2388922,
+    "parent": 2387777,
+    "comment": "It's an unfortunate fact of EV life, if it's parking on a public street with no parking restrictions there's not a lot you can do other than find out whose car it is and ask them to move it. As far as I know there aren't any laws against parking in an EV space, although maybe there should be.",
+    "username": "monkeychew",
+    "full_name": "Neil Clarke",
+    "avatar": "https://secure.gravatar.com/avatar/7d58d0e38ba2584976d6cba6acf618e6?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-10T15:56:41+01:00"
+  },
+  {
+    "id": 2388915,
+    "parent": 2387777,
+    "comment": "It's an unfortunate fact of EV life, if it's parking on a public street with no parking restrictions there's not a lot you can do other than find out whose car it is and ask them to move it. As far as I know there aren't any laws against parking in an EV space, although maybe there should be.",
+    "username": "monkeychew",
+    "full_name": "Neil Clarke",
+    "avatar": "https://secure.gravatar.com/avatar/7d58d0e38ba2584976d6cba6acf618e6?s=80&d=https%3A%2F%2Fstatic.zap-map.com%2Fv5%2Ficons%2Fpng%2Futilities%2Fdefault-avatar.90x90.png",
+    "date": "2018-05-10T15:55:36+01:00"
+  }
+]
