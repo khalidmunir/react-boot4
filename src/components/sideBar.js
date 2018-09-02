@@ -8,13 +8,14 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 export default class SideBar extends Component {
     render() {
-        
+        console.log(this.props)
+        const { userList } = this.props
     return (
         <React.Fragment>
         <div id="sidepanel">
         <SideBarHeader />
       
-        <SideBarUserList users={this.props.userList}/>
+        <SideBarUserList userList={userList}/>
         
       </div>
       </React.Fragment>

@@ -10,8 +10,8 @@ export default class SideBarHeader extends Component {
 
         <div id="profile">
           <div className="wrap">
-            <img id="profile-img" src="http://emilcarlsson.se/assets/mikeross.png" className="online" alt="" />
-            <p>Mike Ross</p>
+            <img id="profile-img" src="https://www.nextgreencar.com/i/ngc-logo.png" className="online" alt="" />
+            <p>Next Green Car</p>
             
             
             <div id="status-options">
