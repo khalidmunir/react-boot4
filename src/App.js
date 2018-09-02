@@ -1,8 +1,99 @@
 import React, { Component } from 'react';
+import moment from 'moment'
 import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
+  constructor() {
+    super()
+
+  }
+  
+  state = {
+    chats: [],
+    isLoading: true,
+    errors: null
+  };
+
+  fetchUsers() {
+    // Where are we fetching data from
+    fetch(`http://localhost:8000/api/chats`)
+      // We get the API response then receive data in JSON...
+      .then(response => response.json())
+      // Normally would use a store like redux
+      // being this example demo - simpler to it do this way.. 
+      .then(sorted => this.fixRelationships(sorted))
+      // finally data should look good - so set the state.
+      .then(data =>
+        this.setState({
+          chats: data,
+          isLoading: false,
+        })
+      )
+      // Catch any unknowns (errors) and update loading status
+      .catch(error => this.setState({ error, isLoading: false }));
+  }
+
+fixRelationships(inList) {
+
+  // check if the parent id does exists- only then add to the array.
+  let resortedList = null; 
+
+  let sorted_items = inList.sort((a,b) => {
+    // wasted much time figuring this - need to use minus due to behaviour of moment.js
+    // return value giving falsy/truths. Made me wish I stuck to underscore 
+    // and using the helper function for sorting by date 
+    return moment(b.date).format('X') -  moment(a.date).format('X') 
+  });
+
+  // fix and add relevant date helpers
+  sorted_items.map( (item) => {
+    
+    item.dateenglish = moment(item.date).format('MMMM Do YYYY, h:mm:ss a')
+    item.datehumanform = moment(item.date).fromNow()
+    item.validParent = null;
+
+    return item;
+  })
+  
+  // grab all the parents - children are more tricky as only some have valid parents (they dont exist in the array).
+  // (don't remove orphaned children as they will need to be re-inserted date sorted)
+  let parentList = sorted_items.filter( (item) => { 
+    return ((item.parent === null)||(item.parent !== null && (sorted_items.findIndex(x => x.id === item.parent) < 0)))
+  })
+
+  // grab Only the children with valid parents from the parentlist
+  let childrenList = sorted_items.filter( (item) => {
+    return item.parent !== null && (parentList.findIndex(x => x.id === item.parent) > 0)
+  })
+
+  // Algorithm required - To fix List : 
+  // map through the childrenList and find the parentList entry to append to..
+  childrenList.map( (child, index) => {
+    
+    // keep it simple to show/explain logic - 
+    // could have used a find and prevent the 'for' looping 
+    // of the array.
+    for(let i=0;i<parentList.length;i++) {        
+      if( parentList[i].id == child.parent) {
+        // can use later as valid reply flag
+        child.validParent = true;
+        parentList.splice( i+1, 0, child );
+        break;
+      }
+    }
+  })
+
+  console.log(" ### FIXED Parent List ###", parentList)
+
+  return parentList;
+}
+
+componentDidMount() {
+
+  this.fetchUsers()
+}
+
   render() {
     return (
       <div className="App">
