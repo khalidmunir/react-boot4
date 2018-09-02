@@ -4,13 +4,10 @@ import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
-  constructor() {
-    super()
-
-  }
   
   state = {
     chats: [],
+    userList: [],
     isLoading: true,
     errors: null
   };
@@ -37,7 +34,7 @@ class App extends Component {
 fixRelationships(inList) {
 
   // check if the parent id does exists- only then add to the array.
-  let resortedList = null; 
+  //let resortedList = null; 
 
   let sorted_items = inList.sort((a,b) => {
     // wasted much time figuring this - need to use minus due to behaviour of moment.js
@@ -55,6 +52,23 @@ fixRelationships(inList) {
 
     return item;
   })
+
+  // Grab all the users from the json
+  const userList = sorted_items.map( (item) => {
+    let { avatar, username, full_name : fullname } = item
+
+    return { fullname: fullname, 
+             url: avatar, 
+             username: username }
+  })
+
+  // make them unique 
+  const uniqueUsers = [...userList.reduce( (itemsMap, item) => 
+    itemsMap.has(item.fullname) ? 
+    itemsMap : 
+    itemsMap.set(item.fullname, item), new Map()).values()]
+
+  console.log("Uniqe users", uniqueUsers)
   
   // grab all the parents - children are more tricky as only some have valid parents (they dont exist in the array).
   // (don't remove orphaned children as they will need to be re-inserted date sorted)
@@ -96,14 +110,8 @@ componentDidMount() {
 
   render() {
     return (
-      <div className="App">
-        <header className="container">
-          <img src={logo} className="App-logo img img-responsive" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+      <div className="container">
+        
       </div>
     );
   }
