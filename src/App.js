@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import moment from 'moment'
 import logo from './logo.svg';
 import './App.css';
+import ChatWindow from './components/chatWindow'
 
 class App extends Component {
   
@@ -119,6 +120,7 @@ componentDidMount() {
   render() {
     return (
       <div className="container">
+        <ChatWindow />
         
       </div>
     );
