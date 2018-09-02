@@ -114,6 +114,7 @@ fixRelationships(inList) {
   })
 
   console.log(" ### FIXED Parent List ###", parentList)
+  this.setState({ chats: parentList })
 
   return parentList;
 }
@@ -127,7 +128,7 @@ componentDidMount() {
     return (
       <div id="frame">
         <SideBar userList={this.state.userList}/>
-        <ChatWindow />
+        <ChatWindow chats={this.state.chats} />
         
       </div>
     );

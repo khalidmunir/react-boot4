@@ -1,4 +1,5 @@
 import React, { Component, Fragment } from 'react'
+import ChatItem from './chatItem'
 
 class ChatWindow extends Component {
   render() {
@@ -6,8 +7,8 @@ class ChatWindow extends Component {
         <React.Fragment>
             <div className="content">
         <div className="contact-profile">
-          <img src="http://emilcarlsson.se/assets/harveyspecter.png" alt="" />
-          <p>Harvey Specter</p>
+          <img src="https://www.nextgreencar.com/i/ngc-logo.png" alt="" />
+
           <div className="social-media">
             <i className="fa fa-facebook" aria-hidden="true"></i>
             <i className="fa fa-twitter" aria-hidden="true"></i>
@@ -16,10 +17,7 @@ class ChatWindow extends Component {
         </div>
         <div className="messages">
           <ul>
-            <li className="sent">
-              <img src="http://emilcarlsson.se/assets/mikeross.png" alt="" />
-              <p>How the hell am I supposed to get a jury to believe you when I am not even sure that I do?!</p>
-            </li>
+            
             <li className="replies">
               <img src="http://emilcarlsson.se/assets/harveyspecter.png" alt="" />
               <p>When you're backed against the wall, break the god damn thing down.</p>
