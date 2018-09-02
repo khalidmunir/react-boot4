@@ -74,7 +74,7 @@ fixRelationships(inList) {
              UserChatList: chatByUser(fullname) 
            }
   })
-  this.setState( { userList } )
+  //this.setState( { userList } )
 
   // make them unique 
   const uniqueUsers = [...userList.reduce( (itemsMap, item) => 
@@ -126,7 +126,7 @@ componentDidMount() {
   render() {
     return (
       <div id="frame">
-        <SideBar />
+        <SideBar userList={this.state.userList}/>
         <ChatWindow />
         
       </div>
