@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import SideBarHeader from './sideBarHeader'
+import SearchUser from './searchUser'
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSearch } from '@fortawesome/free-solid-svg-icons'
@@ -10,12 +11,7 @@ export default class SideBar extends Component {
         <React.Fragment>
         <div id="sidepanel">
         <SideBarHeader />
-        <div id="search">
-            
-          <label for=""><i className="fa fa-search" aria-hidden="true"></i></label>
-          <input type="text" placeholder="Search contacts..." />
-          <FontAwesomeIcon icon={faSearch}/>
-        </div>
+        <SearchUser />
         <div id="contacts">
           <ul style={{listStyleType: "none" }}>
             <li className="contact">
