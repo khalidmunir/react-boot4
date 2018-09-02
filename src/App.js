@@ -3,6 +3,7 @@ import moment from 'moment'
 import logo from './logo.svg';
 import './App.css';
 import ChatWindow from './components/chatWindow'
+import SideBar from './components/sideBar'
 
 class App extends Component {
   
@@ -119,7 +120,8 @@ componentDidMount() {
 
   render() {
     return (
-      <div className="container">
+      <div id="frame">
+        <SideBar />
         <ChatWindow />
         
       </div>
