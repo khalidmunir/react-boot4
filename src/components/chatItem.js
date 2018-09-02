@@ -12,7 +12,7 @@ import React, { Component } from 'react'
   
         <li key={id} className={cssHandle}>
             <img src={ avatar } alt={ full_name } />
-            <p>{ comment } <br /><br />{datehumanform}</p>
+            <p>{ comment } <br /><br />{username} - ({datehumanform})</p>
         </li>
 
     );
