@@ -71,7 +71,7 @@ fixRelationships(inList) {
     return { fullname: fullname, 
              url: avatar, 
              username: username,
-             UserChatList: chatByUser(fullname) 
+             userChatList: chatByUser(fullname) 
            }
   })
   //this.setState( { userList } )
