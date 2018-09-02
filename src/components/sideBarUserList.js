@@ -13,7 +13,7 @@ class SideBarUserList extends Component {
                 <span className="contact-status online"></span>
                 <img src={user.url} alt={user.fullname} />
                 <div className="meta">
-                    <p className="name">{user.fullname}  [{user.userChatList.length} chats]</p>
+                    <p className="name">{user.fullname}</p>
                     <p className="preview">{user.userChatList[0].comment}</p>
                 </div>
             </div>
