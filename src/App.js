@@ -9,7 +9,8 @@ class App extends Component {
     chats: [],
     userList: [],
     isLoading: true,
-    errors: null
+    errors: null,
+    filteredChats: []
   };
 
   fetchUsers() {
@@ -53,14 +54,24 @@ fixRelationships(inList) {
     return item;
   })
 
+  let chatByUser = (userName) => sorted_items.filter( (item) => {
+    return item.full_name === userName
+  })
+
   // Grab all the users from the json
   const userList = sorted_items.map( (item) => {
     let { avatar, username, full_name : fullname } = item
 
     return { fullname: fullname, 
              url: avatar, 
-             username: username }
+             username: username,
+             UserChatList: chatByUser(fullname) 
+           }
   })
+  this.setState( { userList } )
+
+
+
 
   // make them unique 
   const uniqueUsers = [...userList.reduce( (itemsMap, item) => 
@@ -69,6 +80,7 @@ fixRelationships(inList) {
     itemsMap.set(item.fullname, item), new Map()).values()]
 
   console.log("Uniqe users", uniqueUsers)
+  this.setState( { userList: uniqueUsers } )
   
   // grab all the parents - children are more tricky as only some have valid parents (they dont exist in the array).
   // (don't remove orphaned children as they will need to be re-inserted date sorted)
