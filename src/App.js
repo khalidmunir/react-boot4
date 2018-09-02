@@ -10,7 +10,6 @@ class App extends Component {
     userList: [],
     isLoading: true,
     errors: null,
-    filteredChats: []
   };
 
   fetchUsers() {
@@ -69,9 +68,6 @@ fixRelationships(inList) {
            }
   })
   this.setState( { userList } )
-
-
-
 
   // make them unique 
   const uniqueUsers = [...userList.reduce( (itemsMap, item) => 
